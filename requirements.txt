@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+openai
+elasticsearch>=8.0.0
+langchain
+langgraph
+faiss-cpu
